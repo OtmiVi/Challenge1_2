@@ -1,0 +1,7 @@
+E:\Практика\Challenge_1_2\Challenge_1_2\bin\Debug\Challenge_1_2.exe.config
+E:\Практика\Challenge_1_2\Challenge_1_2\bin\Debug\Challenge_1_2.exe
+E:\Практика\Challenge_1_2\Challenge_1_2\bin\Debug\Challenge_1_2.pdb
+E:\Практика\Challenge_1_2\Challenge_1_2\obj\Debug\Challenge_1_2.csprojAssemblyReference.cache
+E:\Практика\Challenge_1_2\Challenge_1_2\obj\Debug\Challenge_1_2.csproj.CoreCompileInputs.cache
+E:\Практика\Challenge_1_2\Challenge_1_2\obj\Debug\Challenge_1_2.exe
+E:\Практика\Challenge_1_2\Challenge_1_2\obj\Debug\Challenge_1_2.pdb
